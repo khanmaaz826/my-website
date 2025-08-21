@@ -2,11 +2,11 @@
 <html>
   <head>
     <title>My Simple Website</title>
-      <script>
+      <style>
           p{
           background-color="red";
           }
-      </script>
+      </style>
   </head>
   <body>
     <h1>Welcome To My Website<h1>
