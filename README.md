@@ -3,10 +3,8 @@
   <head>
     <title>My Simple Website</title>
   </head>
-  <style>
-          .p{
-            color:"blue";
-          }
+   <style>
+          p{color: 'blue';}
       </style>
   <body>
     <h1>Welcome To My Website<h1>
